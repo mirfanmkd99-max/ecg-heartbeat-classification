@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data is not versioned (too large; document where to download it in the README)
+data/*
+!data/.gitkeep
+
+# Virtual environment
+.venv/
+
+# Trained model files
+*.pt
+
+# Notebook autosave folders and OS files
+.ipynb_checkpoints/
+.DS_Store

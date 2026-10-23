@@ -1,2 +1,3 @@
-# ecg-heartbeat-classification
-Classification of ECG heartbeats with a random forest baseline and a 1D CNN (MIT-BIH)
+# ECG Heartbeat Classification
+Classification of ECG heartbeats with a random forest and a 1D CNN.
+
