@@ -20,3 +20,19 @@
 
 
 
+=> Train Random Forest Classifier with balance class weights and without class weights. There was a slight difference in the Macro F1 score. 
+
+
+
+=> For experiments, I did train different models like Histogram Gradient Boosting Classifier, Logistic Regression and then using Oversampling up to 20k samples each class.
+
+
+
+=> Boosting and oversampled Random Forest Classifier were the efficient ones in weights of F1.
+
+
+
+
+
+
+
