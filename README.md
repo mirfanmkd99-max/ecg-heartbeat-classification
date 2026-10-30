@@ -66,6 +66,34 @@ Ranking was F S V Q N for 42 and 60 and S F V Q N for 20.
 
 
 
+1D CNN Model training.
+
+
+
+Trained CNN Model => 3 Convolution layers, Batch Normalization layers, ReLU activation function and MaxPooling layers.
+
+
+
+Flatten, Dropout of 0.3 and Linear layers of 64.
+
+
+
+Name my model ECGNet with balanced class weights. Cross Entropy Loss and Adam Optimizer with learning rate of 0.003.
+
+
+
+Then predict through my model evaluation.
+
+
+
+Then train for 20 epochs. Lastly, print Macro F1 score and loss after each epoch and save the model weights with best F1.
+
+
+
+
+
+
+
 
 
 
